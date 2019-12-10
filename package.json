@@ -1,0 +1,20 @@
+{
+  "name": "orm",
+  "version": "1.0.0",
+  "description": "this is for learning purpose of orm-sequilize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Satyam",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.578.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.0.0",
+    "sequelize": "^5.21.2",
+    "uuid": "^3.3.3"
+  }
+}
