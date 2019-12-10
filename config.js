@@ -1,5 +1,5 @@
 module.exports = {
-    accessKeyId: 'AKIASMGOCPP2YISDHLYY',
-    secretAccessKey: 'NT0xsV+0d6qSYZGMpp+b60y0G+AOkpPZYEVcJSRv',
-    region: 'ap-south-1'
+    accessKeyId: 'your secret access key id',
+    secretAccessKey: 'your secret access key',
+    region: 'your aws region'
 }
